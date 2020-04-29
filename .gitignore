@@ -11,3 +11,9 @@ out/
 .project
 .settings
 .classpath
+.factorypath
+classes/
+dist/
+bin/
+*/META-INF/
+*/test/
