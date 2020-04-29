@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: small-frozen-ostrich
