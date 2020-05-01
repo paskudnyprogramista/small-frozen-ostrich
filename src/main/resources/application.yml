@@ -1,3 +1,11 @@
 micronaut:
   application:
     name: small-frozen-ostrich
+  router:
+    versioning:
+      enabled: true
+      default-version: 1
+      header:
+        enabled: true
+        names:
+          - 'X-API-VERSION'
