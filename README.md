@@ -11,5 +11,4 @@ This project was created as a part of learning process to gain practical experie
 
 ---
 
-<style>.heart{color:#e25555;}</style>
 Baked with <span class="heart">❤</span> in Poland
